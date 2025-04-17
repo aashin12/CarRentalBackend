@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Admin User",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "fullName": "User One",
+      "email": "user@gmail.com",
+      "password": "user123",
+      "role": "user"
+    },
+    {
+      "fullName": "ram",
+      "email": "ram@gmail.com",
+      "password": "ram123",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "fullName": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "rahul123",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "fullName": "syam",
+      "email": "syam@gmail.com",
+      "password": "syam123",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "fullName": "amal",
+      "email": "amal@gmail.com",
+      "password": "amal123",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "fullName": "ayan",
+      "email": "ayan@gmail.com",
+      "password": "ayan123",
+      "role": "user",
+      "id": 7
+    }
+  ],
+  "cars": [],
+  "wishlist": [],
+  "cart": [],
+  "bookings": []
+}
