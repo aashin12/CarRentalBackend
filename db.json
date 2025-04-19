@@ -48,7 +48,7 @@
       "carName": "BMW",
       "carDoors": "4",
       "transmission": "Automatic",
-      "price": "2000",
+      "price": "3000",
       "image": "https://www.bmw-special-sales.com/content/dam/bmw/marketBMWCOM/bmw-special-sales_com/common/protection/7-protection/bmw-css-7-series-protection-ms-new-standard.jpg",
       "fuelType": "Hybrid",
       "id": 3
@@ -75,7 +75,7 @@
       "carName": "TESLA",
       "carDoors": "4",
       "transmission": "Automatic",
-      "price": "2499",
+      "price": "2500",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LIUgazLR2FLYreAFxE4DTcMI2nVcthwGGA&s",
       "fuelType": "Electric",
       "id": 7
