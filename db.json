@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "fullName": "Admin User",
+      "fullName": "Admin",
       "email": "admin@gmail.com",
       "password": "admin123",
       "role": "admin"
@@ -13,13 +13,6 @@
       "email": "user@gmail.com",
       "password": "user123",
       "role": "user"
-    },
-    {
-      "fullName": "ram",
-      "email": "ram@gmail.com",
-      "password": "ram123",
-      "role": "user",
-      "id": 3
     },
     {
       "fullName": "rahul",
@@ -43,15 +36,100 @@
       "id": 6
     },
     {
-      "fullName": "ayan",
-      "email": "ayan@gmail.com",
-      "password": "ayan123",
+      "fullName": "Aashin",
+      "email": "aashin@gmail.com",
+      "password": "aashin123",
       "role": "user",
       "id": 7
     }
   ],
-  "cars": [],
-  "wishlist": [],
-  "cart": [],
-  "bookings": []
+  "cars": [
+    {
+      "carName": "BMW",
+      "carDoors": "4",
+      "transmission": "Automatic",
+      "price": "2000",
+      "image": "https://www.bmw-special-sales.com/content/dam/bmw/marketBMWCOM/bmw-special-sales_com/common/protection/7-protection/bmw-css-7-series-protection-ms-new-standard.jpg",
+      "fuelType": "Hybrid",
+      "id": 3
+    },
+    {
+      "carName": "BENZ",
+      "carDoors": "4",
+      "transmission": "Automatic",
+      "price": "2000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYqkV4ci2165MHjVwn6HZrf1ohGXJSaTEag&s",
+      "fuelType": "Diesel",
+      "id": 4
+    },
+    {
+      "carName": "G-WAGON",
+      "carDoors": "5",
+      "transmission": "Automatic",
+      "price": "2500",
+      "image": "https://www.financialexpress.com/wp-content/uploads/2023/09/Mercedes-AMG-G63-Grand-Edition.jpg",
+      "fuelType": "Diesel",
+      "id": 5
+    },
+    {
+      "carName": "TESLA",
+      "carDoors": "4",
+      "transmission": "Automatic",
+      "price": "2499",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LIUgazLR2FLYreAFxE4DTcMI2nVcthwGGA&s",
+      "fuelType": "Electric",
+      "id": 7
+    }
+  ],
+  "wishlist": [
+    {
+      "carName": "BENZ",
+      "carDoors": "4",
+      "transmission": "Automatic",
+      "price": "2000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYqkV4ci2165MHjVwn6HZrf1ohGXJSaTEag&s",
+      "fuelType": "Diesel",
+      "id": 4
+    },
+    {
+      "carName": "G-WAGON",
+      "carDoors": "5",
+      "transmission": "Automatic",
+      "price": "2500",
+      "image": "https://www.financialexpress.com/wp-content/uploads/2023/09/Mercedes-AMG-G63-Grand-Edition.jpg",
+      "fuelType": "Diesel",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "carName": "G-WAGON",
+      "carDoors": "5",
+      "transmission": "Automatic",
+      "price": "2500",
+      "image": "https://www.financialexpress.com/wp-content/uploads/2023/09/Mercedes-AMG-G63-Grand-Edition.jpg",
+      "fuelType": "Diesel",
+      "id": 5
+    }
+  ],
+  "bookings": [
+    {
+      "carName": "G-WAGON",
+      "carDoors": "5",
+      "transmission": "Automatic",
+      "price": "2500",
+      "image": "https://www.financialexpress.com/wp-content/uploads/2023/09/Mercedes-AMG-G63-Grand-Edition.jpg",
+      "fuelType": "Diesel",
+      "id": 5
+    },
+    {
+      "carName": "BENZ",
+      "carDoors": "4",
+      "transmission": "Automatic",
+      "price": "2000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYqkV4ci2165MHjVwn6HZrf1ohGXJSaTEag&s",
+      "fuelType": "Diesel",
+      "id": 4
+    }
+  ]
 }
