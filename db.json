@@ -79,18 +79,54 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LIUgazLR2FLYreAFxE4DTcMI2nVcthwGGA&s",
       "fuelType": "Electric",
       "id": 7
+    },
+    {
+      "carName": "MUSTANG",
+      "carDoors": "2",
+      "transmission": "Automatic",
+      "price": "5000",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2025-ford-mustang-60th-anniversary-exterior-66227932bb88e.jpg",
+      "fuelType": "Petrol",
+      "id": 8
+    },
+    {
+      "carName": "FORTUNER",
+      "carDoors": "4",
+      "transmission": "Manual",
+      "price": "2000",
+      "image": "https://ik.imagekit.io/girnar/sayaratbay/large/gallery/exterior/40/424/toyota-fortuner-front-side-view-363911.jpg",
+      "fuelType": "Hybrid",
+      "id": 9
+    },
+    {
+      "carName": "POLO GT",
+      "carDoors": "4",
+      "transmission": "Manual",
+      "price": "1799",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg-z79cty-jE4CKdZjZyi_Bg_QIOQcgues2A&s",
+      "fuelType": "Diesel",
+      "id": 10
+    },
+    {
+      "carName": "BMW -320 D",
+      "carDoors": "4",
+      "transmission": "Manual",
+      "price": "3500",
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/3-Series/10574/1689667781970/front-left-side-47.jpg",
+      "fuelType": "Petrol",
+      "id": 11
+    },
+    {
+      "carName": "THAR",
+      "carDoors": "2",
+      "transmission": "Automatic",
+      "price": "1500",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/l15bxjk0/poster/b/r/n/medium-mahindra-thar-modified-sports-car-matte-finish-poster-original-imagcs3n5qcdpzdw.jpeg?q=20&crop=false",
+      "fuelType": "Petrol",
+      "id": 12
     }
   ],
   "wishlist": [
-    {
-      "carName": "BENZ",
-      "carDoors": "4",
-      "transmission": "Automatic",
-      "price": "2000",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYqkV4ci2165MHjVwn6HZrf1ohGXJSaTEag&s",
-      "fuelType": "Diesel",
-      "id": 4
-    },
     {
       "carName": "G-WAGON",
       "carDoors": "5",
@@ -99,6 +135,33 @@
       "image": "https://www.financialexpress.com/wp-content/uploads/2023/09/Mercedes-AMG-G63-Grand-Edition.jpg",
       "fuelType": "Diesel",
       "id": 5
+    },
+    {
+      "carName": "TESLA",
+      "carDoors": "4",
+      "transmission": "Automatic",
+      "price": "2500",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LIUgazLR2FLYreAFxE4DTcMI2nVcthwGGA&s",
+      "fuelType": "Electric",
+      "id": 7
+    },
+    {
+      "carName": "BMW",
+      "carDoors": "4",
+      "transmission": "Automatic",
+      "price": "3000",
+      "image": "https://www.bmw-special-sales.com/content/dam/bmw/marketBMWCOM/bmw-special-sales_com/common/protection/7-protection/bmw-css-7-series-protection-ms-new-standard.jpg",
+      "fuelType": "Hybrid",
+      "id": 3
+    },
+    {
+      "carName": "BENZ",
+      "carDoors": "4",
+      "transmission": "Automatic",
+      "price": "2000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYqkV4ci2165MHjVwn6HZrf1ohGXJSaTEag&s",
+      "fuelType": "Diesel",
+      "id": 4
     }
   ],
   "cart": [
@@ -110,6 +173,15 @@
       "image": "https://www.financialexpress.com/wp-content/uploads/2023/09/Mercedes-AMG-G63-Grand-Edition.jpg",
       "fuelType": "Diesel",
       "id": 5
+    },
+    {
+      "carName": "TESLA",
+      "carDoors": "4",
+      "transmission": "Automatic",
+      "price": "2500",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LIUgazLR2FLYreAFxE4DTcMI2nVcthwGGA&s",
+      "fuelType": "Electric",
+      "id": 7
     }
   ],
   "bookings": [
@@ -130,6 +202,15 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYqkV4ci2165MHjVwn6HZrf1ohGXJSaTEag&s",
       "fuelType": "Diesel",
       "id": 4
+    },
+    {
+      "carName": "TESLA",
+      "carDoors": "4",
+      "transmission": "Automatic",
+      "price": "2500",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LIUgazLR2FLYreAFxE4DTcMI2nVcthwGGA&s",
+      "fuelType": "Electric",
+      "id": 7
     }
   ]
 }
