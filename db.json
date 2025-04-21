@@ -41,15 +41,22 @@
       "password": "aashin123",
       "role": "user",
       "id": 7
+    },
+    {
+      "fullName": "boss",
+      "email": "boss@gmail.com",
+      "password": "boss123",
+      "role": "user",
+      "id": 8
     }
   ],
   "cars": [
     {
-      "carName": "BMW",
-      "carDoors": "4",
+      "carName": "BMW M4",
+      "carDoors": "2",
       "transmission": "Automatic",
       "price": "3000",
-      "image": "https://www.bmw-special-sales.com/content/dam/bmw/marketBMWCOM/bmw-special-sales_com/common/protection/7-protection/bmw-css-7-series-protection-ms-new-standard.jpg",
+      "image": "https://images.netdirector.co.uk/gforces-auto/image/upload/q_auto,c_fill,f_auto,fl_lossy,w_1920,h_873/auto-client/b1b9090e31ced4f6715a6c9ca4d2f367/model_page_banner.jpg",
       "fuelType": "Hybrid",
       "id": 3
     },
@@ -124,33 +131,33 @@
       "image": "https://rukminim2.flixcart.com/image/850/1000/l15bxjk0/poster/b/r/n/medium-mahindra-thar-modified-sports-car-matte-finish-poster-original-imagcs3n5qcdpzdw.jpeg?q=20&crop=false",
       "fuelType": "Petrol",
       "id": 12
+    },
+    {
+      "carName": "BMW Z4",
+      "carDoors": "2",
+      "transmission": "Manual",
+      "price": "3500",
+      "image": "https://www.infinity-group.in/wp-content/uploads/2024/04/NEW-BMW-Z4-M40i-Cover-Image.jpg",
+      "fuelType": "Petrol",
+      "id": 13
+    },
+    {
+      "carName": "DEFENDER",
+      "carDoors": "3",
+      "transmission": "Automatic",
+      "price": "4000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNgxenVexT0zYSTDjLR0gHKiHcK6oEotjz2A&s",
+      "fuelType": "Diesel",
+      "id": 14
     }
   ],
   "wishlist": [
     {
-      "carName": "G-WAGON",
-      "carDoors": "5",
-      "transmission": "Automatic",
-      "price": "2500",
-      "image": "https://www.financialexpress.com/wp-content/uploads/2023/09/Mercedes-AMG-G63-Grand-Edition.jpg",
-      "fuelType": "Diesel",
-      "id": 5
-    },
-    {
-      "carName": "TESLA",
-      "carDoors": "4",
-      "transmission": "Automatic",
-      "price": "2500",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LIUgazLR2FLYreAFxE4DTcMI2nVcthwGGA&s",
-      "fuelType": "Electric",
-      "id": 7
-    },
-    {
-      "carName": "BMW",
-      "carDoors": "4",
+      "carName": "BMW M4",
+      "carDoors": "2",
       "transmission": "Automatic",
       "price": "3000",
-      "image": "https://www.bmw-special-sales.com/content/dam/bmw/marketBMWCOM/bmw-special-sales_com/common/protection/7-protection/bmw-css-7-series-protection-ms-new-standard.jpg",
+      "image": "https://images.netdirector.co.uk/gforces-auto/image/upload/q_auto,c_fill,f_auto,fl_lossy,w_1920,h_873/auto-client/b1b9090e31ced4f6715a6c9ca4d2f367/model_page_banner.jpg",
       "fuelType": "Hybrid",
       "id": 3
     },
@@ -173,27 +180,9 @@
       "image": "https://www.financialexpress.com/wp-content/uploads/2023/09/Mercedes-AMG-G63-Grand-Edition.jpg",
       "fuelType": "Diesel",
       "id": 5
-    },
-    {
-      "carName": "TESLA",
-      "carDoors": "4",
-      "transmission": "Automatic",
-      "price": "2500",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LIUgazLR2FLYreAFxE4DTcMI2nVcthwGGA&s",
-      "fuelType": "Electric",
-      "id": 7
     }
   ],
   "bookings": [
-    {
-      "carName": "G-WAGON",
-      "carDoors": "5",
-      "transmission": "Automatic",
-      "price": "2500",
-      "image": "https://www.financialexpress.com/wp-content/uploads/2023/09/Mercedes-AMG-G63-Grand-Edition.jpg",
-      "fuelType": "Diesel",
-      "id": 5
-    },
     {
       "carName": "BENZ",
       "carDoors": "4",
@@ -204,13 +193,22 @@
       "id": 4
     },
     {
-      "carName": "TESLA",
-      "carDoors": "4",
+      "carName": "BMW M4",
+      "carDoors": "2",
+      "transmission": "Automatic",
+      "price": "3000",
+      "image": "https://images.netdirector.co.uk/gforces-auto/image/upload/q_auto,c_fill,f_auto,fl_lossy,w_1920,h_873/auto-client/b1b9090e31ced4f6715a6c9ca4d2f367/model_page_banner.jpg",
+      "fuelType": "Hybrid",
+      "id": 3
+    },
+    {
+      "carName": "G-WAGON",
+      "carDoors": "5",
       "transmission": "Automatic",
       "price": "2500",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LIUgazLR2FLYreAFxE4DTcMI2nVcthwGGA&s",
-      "fuelType": "Electric",
-      "id": 7
+      "image": "https://www.financialexpress.com/wp-content/uploads/2023/09/Mercedes-AMG-G63-Grand-Edition.jpg",
+      "fuelType": "Diesel",
+      "id": 5
     }
   ]
 }
